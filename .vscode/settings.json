@@ -1,0 +1,14 @@
+{
+    "git.ignoreLimitWarning": true,
+    "markdown.extension.katex.macros": {
+
+    },
+    "markdown.extension.list.toggle.candidate-markers": [
+        
+        "-",
+        "*",
+        "+",
+        "1.",
+        "1)"
+    ],
+}
