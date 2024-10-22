@@ -1,7 +1,11 @@
 import nav from './nav.js';
 import sidebar from './sidebar.js';
 export default {
-    base:'/vitepress',
+    /**
+     * 如果是username.github.io项目 base 可以不配置默认是 /
+     * 
+     */
+    base:'/',
     title: 'vitepress', //站点标题
     description: '一个vue3组件库',//mate标签description，多用于搜索引擎抓取摘要
     themeConfig: {

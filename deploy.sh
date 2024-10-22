@@ -10,7 +10,7 @@ npm run docs:build
 cd docs/.vitepress/dist
 
 # 如果是发布到自定义域名
-#echo 'vitepress.arclib.com' > CNAME
+echo 'vitepress.arclib.top' > CNAME
 
 git init
 git add -A

@@ -8,18 +8,12 @@ const nav = [
             text: "开发工具",
             items: [
               { text: "IDEA", link: "/tools/" },
-              { text: "Item A2", link: "/tools/idea/" },
+              { text: "vscode", link: "/tools/002-vscode/001-插件" },
             ],
           },
-        //   {
-        //     text: "工具2",
-        //     items: [
-        //       { text: "Item B1", link: "/item-B1" },
-        //       { text: "Item B2", link: "/item-B2" },
-        //     ],
-        //   },
         ],
     },
+    { text: "测试", link: "/test" },
     { text: "guide", link: "/guide/" },
     { text: "guidetest", link: "/guide/test" },
     // 我们还可以这样嵌套配置，使得导航栏出现下拉选项
