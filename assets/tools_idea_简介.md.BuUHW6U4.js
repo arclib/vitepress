@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.CGHvQLJz.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"tools/idea/简介.md","filePath":"tools/idea/简介.md"}'),o={name:"tools/idea/简介.md"};function s(r,c,n,d,i,_){return a(),t("div")}const m=e(o,[["render",s]]);export{l as __pageData,m as default};
