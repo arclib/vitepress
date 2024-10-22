@@ -1,0 +1,1 @@
+import{_ as t,c as e,o}from"./chunks/framework.CGHvQLJz.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"tools/001-IDEA/001-常用插件.md","filePath":"tools/001-IDEA/001-常用插件.md"}'),a={name:"tools/001-IDEA/001-常用插件.md"};function s(r,_,c,n,p,d){return o(),e("div")}const m=t(a,[["render",s]]);export{l as __pageData,m as default};

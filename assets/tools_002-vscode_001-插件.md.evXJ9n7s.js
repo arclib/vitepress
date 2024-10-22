@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./chunks/framework.CGHvQLJz.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"tools/002-vscode/001-插件.md","filePath":"tools/002-vscode/001-插件.md"}'),s={name:"tools/002-vscode/001-插件.md"};function a(c,r,n,_,d,p){return o(),t("div")}const m=e(s,[["render",a]]);export{l as __pageData,m as default};
