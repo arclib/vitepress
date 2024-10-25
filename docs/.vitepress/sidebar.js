@@ -9,7 +9,8 @@ import path from 'path';
  * 文件名称和文件夹名称不会处理，完整显示
  */
 const isUserNumber = true;
-
+//侧边栏收起选项 默认为 false;
+const collapsed = false;
 
 
 const sidebar = {
@@ -97,7 +98,8 @@ function getdirs(path){
   // console.log(dirs)
   const result = dirs.map((name, index) => ({
     text:  isUserNumber ? name.split('-')[1] : name,
-    items: getItems(path + '/' + name)
+    items: getItems(path + '/' + name),
+    collapsed: collapsed,
   }));
 
   const index = {

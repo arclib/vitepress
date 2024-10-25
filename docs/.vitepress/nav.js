@@ -1,5 +1,5 @@
 
-const nav = [
+let nav = [
     { text: "首页", link: "/" },
     {
         text: "工具",
@@ -45,4 +45,15 @@ const nav = [
     // },
     
 ]
+
+nav = [
+  { text: "首页", link: "/" },
+  { text: "工具", link: "/tools" },
+  { text: "测试", link: "/test" },
+  { text: "命令", link: "/command" },
+
+]
+
+
+
 export default nav;

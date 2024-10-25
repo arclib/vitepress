@@ -6,7 +6,7 @@ hero:
   text: 随便写点
   tagline: viteperss
   image:
-    src: /images/logo.png
+    src: /assets/logo.png
     alt: logo
   actions:
     - theme: brand
